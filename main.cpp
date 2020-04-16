@@ -3,7 +3,7 @@
 int sorted[10];
 
 int main(){
-    int nums[9];
+    int nums[10];
     int i;
     for(i = 0;i<10;++i)
         cin >> nums[i];
